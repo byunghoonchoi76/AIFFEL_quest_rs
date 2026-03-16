@@ -1,6 +1,6 @@
 # AIFFEL_quest_sr 과정 세부 교육과정별 퀘스트 구조입니다.
 ```
-AIFFEL_quest_sc
+AIFFEL_quest_sr
 ├──Exploration 
 │   ├── EX01
 │       ├── .ipynb
